@@ -20,4 +20,4 @@ Ash Slater
 
 ## Web-Based Mapping
 
--[https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=b6dc32af17f644ab8882af588874c00e]
+-[Explore the 1854 Cholera Outbreak in London](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=b6dc32af17f644ab8882af588874c00e)
