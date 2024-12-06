@@ -21,3 +21,7 @@ Ash Slater
 ## Web-Based Mapping
 
 - [Explore the 1854 Cholera Outbreak in London](https://arcg.is/0bqTKX)
+
+## How to create a GitHub Project
+
+- [How to create a GitHub Project](https://github.com/MaddieS03/gis-project-portfolio-geo441-541b/blob/main/create_project_portfolio_in_github/create_project_portfolio_in_github.ipynb)
