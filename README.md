@@ -10,7 +10,6 @@ Ash Slater
 - [First map in ArcGIS Pro](https://github.com/MaddieS03/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
 - [Map the age index based on 2000 census data](https://github.com/MaddieS03/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/age-index-mapping.ipynb)
 - [Data modeling and mapping](https://github.com/MaddieS03/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/data-modeling-and0-mapping.ipynb)
-- [Spatial analysis of raster data](https://github.com/MaddieS03/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/spacial_analysis.ipynb)
 - [Mapping digital elevation and hydrology data](https://github.com/MaddieS03/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/mapping-digital-elevation-and%20hydrology-data.ipynb)
   
 ## Map Coordinate Basics
@@ -27,6 +26,7 @@ Ash Slater
 
 - [Spatial analysis for vector data](https://github.com/MaddieS03/gis-project-portfolio-geo441-541b/blob/main/spatial_analysis/spacial-analysis-for-vector-data.ipynb)
 - [Using census data](https://github.com/MaddieS03/gis-project-portfolio-geo441-541b/blob/main/spatial_analysis/using-census-data.ipynb)
+- [Spatial analysis of raster data](https://github.com/MaddieS03/gis-project-portfolio-geo441-541b/blob/main/spatial_analysis/spatial-analysis-raster.ipynb)
 
 ## Web-Based Mapping
 
